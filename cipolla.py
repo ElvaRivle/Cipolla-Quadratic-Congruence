@@ -1,5 +1,3 @@
-
-
 nadjeni = [-1]*1000
 
 def cipolla(i, a, p):
